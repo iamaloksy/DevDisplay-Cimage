@@ -68,7 +68,7 @@ const Contributors = () => {
           </span>
         </h2>
         <p className="text-center md:w-3/4 mx-auto mt-4 mb-8 text-xl text-muted-foreground">
-         A huge shoutout to the incredible contributors from campuses College Name!
+         A huge shoutout to the incredible contributors from campuses Cimage College!
         </p>
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-10 gap-3">
         {contributors.map((contributor, index) => (
