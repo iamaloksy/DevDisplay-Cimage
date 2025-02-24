@@ -6,9 +6,9 @@ interface ContributorProps {
 
 const contributors: ContributorProps[] = [
   {
-    name: "Jane Smith",
-    imageUrl: "/assets/team/SampleMan.jpg",
-    linkedinUrl: "#",
+    name: "Aaditya Kumar",
+    imageUrl: "/assets/team/aadi.jpg",
+    linkedinUrl: "https://www.linkedin.com/in/aaditya-kumar-041603270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
   },
   {
     name: "Jane Smith",
